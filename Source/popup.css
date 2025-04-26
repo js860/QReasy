@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    width: 300px;
+    padding: 10px;
+  }
+  .tabs {
+    margin-bottom: 10px;
+  }
+  .tabs button {
+    margin-right: 5px;
+    padding: 5px 10px;
+  }
+  .content-section {
+    margin-top: 10px;
+  }
+  input[type="text"], input[type="file"] {
+    width: 100%;
+    margin-bottom: 5px;
+    padding: 5px;
+    box-sizing: border-box;
+  }
+  #qrcode {
+    margin-top: 10px;
+  }
+  #decoded-result {
+    margin-top: 10px;
+    word-wrap: break-word;
+  }
+  button {
+    cursor: pointer;
+    padding: 5px 10px;
+  }
+  
